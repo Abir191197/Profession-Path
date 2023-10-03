@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "job_title": "Software Engineer",
+    "available_job": "100 Job Available",
+    "img": "https://i.ibb.co/dGCk6RW/software.png"
+  },
+  {
+    "id": 2,
+    "job_title": "Marketing Manager",
+    "available_job": "200 Job Available",
+    "img": "https://i.ibb.co/JR1sywC/marketing.png"
+  },
+  {
+    "id": 3,
+    "job_title": "Graphic Designer",
+    "available_job": "300 Job Available",
+    "img": "https://i.ibb.co/gF0xPmW/graphic-designer.png"
+  },
+  {
+    "id": 4,
+    "job_title": "Data Analyst",
+    "available_job": "400 Job Available",
+    "img":"https://i.ibb.co/grSxpRT/data.png"
+  }
+]
