@@ -26,7 +26,7 @@ const Home = () => {
  
   return (
     <React.Fragment>
-      <UpperPart></UpperPart>
+      {/* <UpperPart></UpperPart> */}
       <div className="flex flex-row shrink-0 space-x-2">
         {jobs.map((job) => (
           <Job_Category_List key={job.id} job={job}></Job_Category_List>
