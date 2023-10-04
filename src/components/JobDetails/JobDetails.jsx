@@ -5,6 +5,8 @@ import SingleJob from '../SingleJob/SingleJob';
 
 const JobDetails = () => {
   const dynamic = useParams();
+  const idInt = parseInt(dynamic.jobId);
+  
 
   // main theke asse dynamic
 
@@ -24,8 +26,8 @@ const JobDetails = () => {
   return (
     <div>
       {remaining && (
-        <div className='flex flex-col'>
-          <SingleJob remaining={remaining}></SingleJob>
+        <div className="grid-cols-2">
+          <SingleJob remaining={remaining} idInt={idInt}></SingleJob>
         </div>
       )}
     </div>
