@@ -17,6 +17,10 @@ const JobDetails = () => {
     fetch(
       `https://raw.githubusercontent.com/Abir191197/Profession-Path/main/data/jobs.json`
     )
+
+
+
+      
       .then((res) => res.json())
       .then((data) => setJobDet(data));
   }, []);

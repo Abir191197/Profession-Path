@@ -30,7 +30,7 @@ const JobPostMain = ({ jobSix }) => {
   return (
     <div>
       <div className=" ">
-        <div className="card flex flex-col justify-start items-start  w-[580px] h-[392px]  bg-base-100 shadow-xl ">
+        <div className="card flex flex-col justify-start items-start  w-[580px] h-[392px]  bodyy shadow-xl ">
           <figure className=" pt-10 ml-[40px]">
             <img src={logo} alt="logo" className="rounded-xl  w-20" />
           </figure>
@@ -74,7 +74,7 @@ const JobPostMain = ({ jobSix }) => {
             </div>
             <button
               onClick={handleNav}
-              className="btn  h-[27px] w-[130px]">
+              className="btn  h-[27px] w-[130px] bg-gradient-to-r from-purple-300 to-blue-300">
               View Details
             </button>
           </div>

@@ -32,7 +32,7 @@ const SingleJob = ({ remaining, idInt }) => {
         Job Details
       </h1>
       <div className="flex flex-row mb-24 ">
-        <div className="w-[870px] h-[450px] mr-10 bg-[#e4e4ff] shadow-md rounded-lg p-5  ">
+        <div className="w-[870px] h-[450px] mr-10 bg-gradient-to-r from-purple-300 to-blue-500 shadow-md rounded-lg p-5  ">
           <h1>
             <span className="font-extrabold text-lg">
               Job Description: <br />
@@ -63,7 +63,7 @@ const SingleJob = ({ remaining, idInt }) => {
           </h1>
         </div>
 
-        <div className=" card w-80 h-[450px] shadow-md    bg-[#e4e4ff] ">
+        <div className="bg-gradient-to-r from-purple-300 to-blue-500  card w-80 h-[450px] shadow-md    bg-[#e4e4ff] ">
           <div className="card-body ">
             <h1 className="font-semibold">Job Details</h1>
             <div className="border-[1px]"></div>
