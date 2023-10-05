@@ -7,7 +7,7 @@
 
 # Project Inspiration Figma File Link
 
-[Figma File](https://www.figma.com/file/flyArku7Iznf85e8sSn6V9/career-hub?type=design&node-id=0-1&mode=design&t=bOhTqSOEfmMTQTnE-0)
+[Figma File](https://www.figma.com/file/flyArku7Iznf85e8sSn6V9/career-hub?type=design&node-id=0-1&mode=design)
 
 ## Live Link
 
