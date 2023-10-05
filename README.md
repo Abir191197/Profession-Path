@@ -5,6 +5,9 @@
 
 # Profession Path: A Simple Job-Finding WebSite
 
+# Project Inspiration Figma File Link
+
+[Figma File](https://www.figma.com/file/flyArku7Iznf85e8sSn6V9/career-hub?node-id=0%3A1&mode=dev)
 
 ## Live Link
 
